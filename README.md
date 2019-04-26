@@ -6,7 +6,7 @@
 Pineapple is a  Development Environment Manager
 
 ### Download and install 
-- Download the programm [here](https://steveaverty.fr) 
+- Download the programm [here](https://steveaverty.fr/pineapple.zip) 
 - Add an alias to your computer 
 - pineapple genreate:bootstrap project (Example to install bootstrap)
 
